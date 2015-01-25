@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  variable.swift
 //  Basic
 //
 //  Created by Ethan on 15-1-25.
@@ -8,8 +8,9 @@
 
 import Foundation
 
-println("Hello, World!")
-
-
-
+class Test{
+    var str = "Hello"
+    var s:String = "World"
+    var i:Int = 100
+}
 
