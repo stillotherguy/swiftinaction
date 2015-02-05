@@ -108,23 +108,3 @@ func trailingFunc(str: String, closureFunc: (String s1, String s2) -> String){
 trailingFunc("haha"){
     return $0 + $1
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
